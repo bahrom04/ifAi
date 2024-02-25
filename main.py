@@ -7,5 +7,6 @@ while True:
         print("Hello there")
     if ask == "Sup":
         print("Hey there!")
-
+    if ask == "Salom":
+	print("Salom Birodar")
     ask = input("How can I help you: ")

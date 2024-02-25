@@ -31,7 +31,8 @@ cd ifAi
 ```
 ## Create a new feature branch
 ```
-git checkout -b your-branch-name
+git branch your-branch-name
+git checkout your-branch-name
 ```
 ## Make the changes for example
 ```python
